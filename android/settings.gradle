@@ -1,0 +1,3 @@
+rootProject.name = 'reactNativeCreateBridgeTest'
+
+include ':app'
